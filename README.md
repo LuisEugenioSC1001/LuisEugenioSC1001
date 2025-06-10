@@ -161,26 +161,12 @@ Conectividad limitada • Sincronización
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🏭%204%20AÑOS-Industrias%20Reales-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=FF4757" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/⚡%20FULL%20STACK-Angular%20%2B%20Power%20Platform-4ECDC4?style=for-the-badge&labelColor=4ECDC4&color=00CEC9" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🔄%20INTEGRADOR-QuickBooks%20%2B%20NetSuite-45B7D1?style=for-the-badge&labelColor=45B7D1&color=0984E3" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/☁️%20AZURE-Power%20Platform%20Expert-96CEB4?style=for-the-badge&labelColor=96CEB4&color=00B894" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/📊%20BI-Dashboards%20%2B%20Analytics-FFEAA7?style=for-the-badge&labelColor=FFEAA7&color=FDCB6E" />
-</td>
-</tr>
-</table>
 
+<img src="https://img.shields.io/badge/🏭%204%20AÑOS-Industrias%20Reales-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=FF4757" />
+<img src="https://img.shields.io/badge/⚡%20FULL%20STACK-Angular%20%2B%20Power%20Platform-4ECDC4?style=for-the-badge&labelColor=4ECDC4&color=00CEC9" />
+<img src="https://img.shields.io/badge/🔄%20INTEGRADOR-QuickBooks%20%2B%20NetSuite-45B7D1?style=for-the-badge&labelColor=45B7D1&color=0984E3" />
+<img src="https://img.shields.io/badge/☁️%20AZURE-Power%20Platform%20Expert-96CEB4?style=for-the-badge&labelColor=96CEB4&color=00B894" />
+<img src="https://img.shields.io/badge/📊%20BI-Dashboards%20%2B%20Analytics-FFEAA7?style=for-the-badge&labelColor=FFEAA7&color=FDCB6E" />
 
 
 </div>
