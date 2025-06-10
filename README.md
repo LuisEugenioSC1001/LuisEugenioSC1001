@@ -1,7 +1,7 @@
 # <div align="center">⚡ Luis Saldarriaga</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Especialista+en+Industrias+Complejas;4+A%C3%B1os+Digitalizando+Industrias%C3%ADa;TypeScript+%2B+Angular+Expert;Azure+Cloud+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Especialista+en+Industrias+Complejas;4+A%C3%B1os+Digitalizando+Industrias;TypeScript+%2B+Angular+Expert;Azure+Cloud+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
